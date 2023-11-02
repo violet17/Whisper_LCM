@@ -12,7 +12,6 @@ pip install diffusers transformers omegaconf accelerate
 pip install numpy opencv-python pillow
 pip install gradio==3.41.1 
 pip install sentencepiece
-pip install bigdl-llm==2.4.0b20231009 py-cpuinfo
 pip install SpeechRecognition
 ```
 
