@@ -17,3 +17,6 @@ pip install SpeechRecognition
 
 ## 运行代码：
 `python audiosd_v0.1.py`
+
+![MicrosoftTeams-image (8)](https://github.com/violet17/Whisper_LCM/assets/4042800/0b549d35-070a-47c2-9f57-5fc889dcd6ea)
+
